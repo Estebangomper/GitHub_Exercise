@@ -1,0 +1,3 @@
+Goodbye!
+This file only exists on the new branch.
+It was branched off before Folder was added.
